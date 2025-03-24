@@ -4,9 +4,9 @@
 ## Um pouco sobre mim
 👩‍🎓 Atualmente estudo Gestão de TI na [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx?lang=en%2F%3Fp%3D7625&gad_source=1&gclid=Cj0KCQjw6PGxBhCVARIsAIumnWaLYcdfcc7PjF6J_PX6Vua8T1g8b-921TWs_FLSdw-FojbGot2NL6AaAtflEALw_wcB) 
 
-👩‍💻 Coordenadora administrativa analítica na Tecla T - Hapvida. Elaboro painés interativos para monitoramentos estratégicos e tratamento de banco de dados para migração de sistema de gestão.
+👩‍💻 Analista de dados na Tecla T - Hapvida. Reduzi 1,5 horas do processo de atualização de visuais implementando automação. Elaboro painés interativos para monitoramentos estratégicos; tratamento de banco de dados para migração de sistema de gestão; inteligência de negócios e ciclo PDCA para melhoria contínua. Principais ferramentas utilizadas: SQL, Data Lake, Power BI, Microsoft Excel, Google Sheets, Looker.
 
-👩‍💻 Trabalhei por 14 anos na área de saúde, como nutricionista e professora universitária, onde liderava equipes, realizava planejamento estratégico, além de desenvolver minhas habilidades de ensino e pesquisa, que auxiliam muito na visão macro de novos projetos.
+👩‍💻 Trabalhei por 14 anos na área de saúde, como nutricionista e professora universitária, onde liderava equipes, realizava planejamento estratégico, além de desenvolver minhas habilidades de ensino e pesquisa, que contribuíram para o desenvolvimento da visão analítica e insights estratégicos.
 
 📚 Me descobri como uma entusiasta da TI quando percebi que os principais entraves que lidava em minha rotina poderiam ser resolvidos com tecnologia, então como uma boa *lifelong learner*, decidi que era o momento de pensar em novos caminhos profissionais
 
@@ -48,5 +48,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DataBricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+
 
 
