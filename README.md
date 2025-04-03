@@ -26,7 +26,7 @@
 
 📈 Análise de filmes da plataforma [**Netflix**](https://github.com/fsantoskelly/netflix)
 
-📈 Criação de banco de dados para uma plataforma de *[*E-commerce**](https://github.com/fsantoskelly/E-commerce)
+📈 Criação de banco de dados para uma plataforma de [**E-commerce**](https://github.com/fsantoskelly/E-commerce)
 
 📈 Análise de KPIs de um [**Serviço de Nutrição e Dietética**](https://github.com/fsantoskelly/Power_BI_PUC)
 
