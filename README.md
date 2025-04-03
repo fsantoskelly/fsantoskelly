@@ -18,6 +18,18 @@
 
 💬 Me pergunte sobre governança, organização, gestão de equipes, gestão de projetos e melhoria contínua
 
+## 💡 Alguns dos meus projetos:
+
+📈Modelo de regressão logística para diagnóstico de [**câncer de mama**](https://github.com/fsantoskelly/cancer_de_mama) 
+
+📈Modelo de regressão linear para previsão de [**valores de imóveis**](https://github.com/fsantoskelly/reg_lin_casas/tree/main) 
+
+📈 Análise de filmes da plataforma [**Netflix**](https://github.com/fsantoskelly/netflix)
+
+📈 Criação de banco de dados para uma plataforma de *[*E-commerce**](https://github.com/fsantoskelly/E-commerce)
+
+📈 Análise de KPIs de um [**Serviço de Nutrição e Dietética**](https://github.com/fsantoskelly/Power_BI_PUC)
+
 📫 **Como entrar em contato comigo**
 
 <div> 
