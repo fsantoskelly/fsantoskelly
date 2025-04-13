@@ -20,6 +20,8 @@
 
 ## 💡 Alguns dos meus projetos:
 
+📈 Análise de retenção e churn de um E-commerce de Suplementos Alimentares [**Churn Suplementos**](https://github.com/fsantoskelly/churn_suplementos)
+
 📈Modelo de regressão logística para diagnóstico de [**câncer de mama**](https://github.com/fsantoskelly/cancer_de_mama) 
 
 📈Modelo de regressão linear para previsão de [**valores de imóveis**](https://github.com/fsantoskelly/reg_lin_casas/tree/main) 
